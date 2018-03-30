@@ -1,2 +1,2 @@
 # my-REST-api
-My take home project for Checkr
+My take home project for Checkr software engineering
